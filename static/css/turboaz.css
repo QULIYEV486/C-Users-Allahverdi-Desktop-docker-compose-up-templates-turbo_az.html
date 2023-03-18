@@ -1,0 +1,50 @@
+.text-1{
+    font-family: system-ui ;
+    font-size: 20px;
+}
+
+.text-2{
+    font-family: system-ui ;
+    font-size: 24px;
+
+}
+
+.text-3{
+    color: #8d94ad;;
+}
+
+.text-4{
+    color: #212c3a;
+}
+
+.img-1{
+    width: 20px;
+    height: 20px;
+}
+
+.img_clock{
+    width: 20px;
+    margin-left: 19px;
+}
+
+.p-text{
+    color: #8d94ad;
+    font-family: sans-serif;
+}
+
+
+.p-text2{
+    color: black;
+    font-family: sans-serif;
+}
+
+
+.card {
+    width: 15rem !important;
+    border-radius: 30px;
+}
+  
+.card-body {
+    color: black;
+    padding: 0.3rem 1rem !important;
+}
